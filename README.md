@@ -5,4 +5,6 @@ FalcMobile App
 
 * An app for Bentley University Students *
 
-An app designed using Java, XML and Android Studio, that helps students schedule their weekly covid tests, access an interactive library of university newspaper editions, and check the schedules for different on-campus facilities. 
+FalcMobile was designed and built by Xiaofan Gao, Emiliano Moreno, and Gabriela Hernandez.
+
+To build this app, we used Java, XML and Android Studio, and it is meant to help students schedule their weekly covid tests, access an interactive library of university newspaper editions, and check the schedules for different on-campus facilities. 
